@@ -30,12 +30,9 @@ public class Array {
 			break;
 			
 		case 2:
-			int[] array2 = readArray();
-			int i;
-			for(i=0; i<array2.length; i++)
-			System.out.print(array2[i] + " ");
-			break;
-			 
+			printElement();
+			break; 
+			
 		case 3: 
 			checkElement();
 			break;
@@ -63,6 +60,15 @@ public class Array {
  
         return input;
     }
+	
+	public static void printElement()
+	{
+		int[] array2 = readArray();
+		int i;
+		for(i=0; i<array2.length; i++)
+		System.out.print(array2[i] + " ");
+		
+	}
 	
 	public static void checkElement()
 	{
