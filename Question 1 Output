@@ -1,0 +1,61 @@
+Output 1:
+---------------------MENU------------------------
+1. Accept elements of an array
+2. Display elements of an array
+3. Search the element within array given by the user
+4. Sort the array by using any sort method
+Please select a menu option: 1
+
+Enter the size of the array: 5
+Enter the elements: 8 3 7 15 9
+
+
+Output 2:
+---------------------MENU------------------------
+1. Accept elements of an array
+2. Display elements of an array
+3. Search the element within array given by the user
+4. Sort the array by using any sort method
+Please select a menu option: 2
+
+Enter the size of the array: 5
+Enter the elements: 8 3 7 15 9
+8 3 7 15 9 
+
+Output 3.1:
+---------------------MENU------------------------
+1. Accept elements of an array
+2. Display elements of an array
+3. Search the element within array given by the user
+4. Sort the array by using any sort method
+Please select a menu option: 3
+
+Enter the size of the array: 5
+Enter the elements: 8 3 7 15 9
+Enter the element you want to search: 1
+Search Not Found
+
+Output 3.2:
+---------------------MENU------------------------
+1. Accept elements of an array
+2. Display elements of an array
+3. Search the element within array given by the user
+4. Sort the array by using any sort method
+Please select a menu option: 3
+
+Enter the size of the array: 5
+Enter the elements: 8 3 7 15 9
+Enter the element you want to search: 15
+Search found
+
+Output 4:
+---------------------MENU------------------------
+1. Accept elements of an array
+2. Display elements of an array
+3. Search the element within array given by the user
+4. Sort the array by using any sort method
+Please select a menu option: 4
+
+Enter the size of the array: 5
+Enter the elements: 8 3 7 15 9
+Elements of array sorted in ascending order: 3 7 8 9 15 
